@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+
+website:
+  favicon: Figures/logo.png
+  title: "Benoît Pichon"
+  site-url: 'https://bpichon.github.io'
+  site-path: '/'
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: meta_eco.qmd
+        text: Meta-ecosystem 
+      - href: dryland_resilience.qmd
+        text: Resilience in time and space
+      - href: cv_publi.qmd
+        text: Education & Publications
+
+format:
+  html:
+    theme:
+      light: [journal, custom.scss]
+      dark: [journal, custom_dark.scss]
+
+editor: visual
+

@@ -1,0 +1,26 @@
+---
+title: "Benoît Pichon"
+
+
+about:
+  template: trestles
+  id: hero-heading
+  links:
+    - icon: mailbox
+      text: Mail
+      href: mailto:benoit.pichon0@gmail.com
+    - icon: google
+      text: Scholar
+      href: https://scholar.google.com/citations?user=y0Lw0DYAAAAJ&hl=fr
+    - icon: github
+      text: Github
+      href: https://github.com/bpichon0
+    - icon: orcid
+      text: ORCiD
+      href: https://orcid.org/0009-0007-6206-5482
+---
+
+I'm generally interested in the interdependencies in our world. In ecology specifically, this encompass how organisms interact with their environment --whether its habitats or other organisms--, and also fluxes of nutrients, information, and species across ecosystems. 
+Theses links generate emergent properties in ecosystems such as their resilience, stability, spatial structure, and functioning. 
+My research aims at contributing to the understanding of how different processes such as species traits, stoichiometry of spatial flows modulate those emergent properties across scales.
+For that, I generally combine data (from the field or using remote sensing), and theoretical models.

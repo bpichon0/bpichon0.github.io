@@ -1,0 +1,15 @@
+{
+  "hash": "e73c16a7bde6036ac8283a07e7207089",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Benoît Pichon\"\n\n\nabout:\n  template: trestles\n  id: hero-heading\n  links:\n    - icon: mailbox\n      text: Mail\n      href: mailto:benoit.pichon0@gmail.com\n    - icon: google\n      text: Scholar\n      href: https://scholar.google.com/citations?user=y0Lw0DYAAAAJ&hl=fr\n    - icon: github\n      text: Github\n      href: https://github.com/bpichon0\n    - icon: orcid\n      text: ORCiD\n      href: https://orcid.org/0009-0007-6206-5482\n---\n\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

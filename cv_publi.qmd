@@ -1,0 +1,30 @@
+---
+title: "Education & Publications"
+---
+
+See my [Google Sholar profile](https://scholar.google.ch/citations?user=y0Lw0DYAAAAJ&hl=en) for the full list.
+
+If not available online or in [HAL](https://hal.science/search/index/?q=*&authIdPerson_i=1270919) in open access, please contact me with this [mail](benoit.pichon0@gmail.com) to have access to the pdf.
+
+# Selected publications
+
+[Integrating ecological feedbacks across scales and levels of organization](https://nsojournals.onlinelibrary.wiley.com/doi/pdf/10.1111/ecog.07167). (2024) B. Pichon, S. Kéfi, N. Loeuille, I. Lajaaiti, I. Gounand. *Ecography*
+
+[The interplay of facilitation and competition drives the emergence of multistability in dryland plant communities](https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1002/ecy.4369). (2024) B. Pichon, I. Gounand, S. Donnet, S. Kéfi *Ecology*
+
+[Telling mutualistic and antagonistic ecological networks apart by learning their multiscale structure](https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/2041-210X.14328). (2024) B. Pichon, R. Le Goff, H. Morlon, B. Perez-Lamarque *Methods in Ecology and Evolution*
+
+[Quality matters: Stoichiometry of resources modulates spatial feedbacks in aquatic‐terrestrial meta‐ecosystems](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.14284) (2023) B.Pichon, E. Thébault, G. Lacrox, I. Gounand. *Ecology Letters*
+
+# Education
+
+-   2022-2025 \| PhD in Ecology & Evolution \| Sorbonne University and National Natural History Museum of Paris
+-   2022 \| Dual program with agronomy, and Evolutionary Biology and Ecology \| Ecole Normale Supérieure de Paris (ENS Paris) and AgroParisTech
+
+# Research experience
+
+- 09/2022 to 09/2025 Modulators of ecological feedbacks and emergent ecosystem properties across scales \| With by Sonia Kéfi, Isabelle Gounand, Sophie Donnet \| University of Montpellier, France
+- 01/2022 to 07/2022 \| Stoichiometry modulates spatial feedbacks in meta-ecosystems \| With Isabelle Gounand, Elisa Thébault, Gérard Lacroix \| IEES Paris, France
+- 02/2021 to 07/2021 \| Landscape structure affects metapopulation tipping points \| With Sonia Kéfi, Emanuel Fronhofer, Camille Saade \| University of Montpellier, France
+- 05/2020 to 02/2021 \| Telling mutualistic and antagonistic ecological networks apart by learning their multiscale structure \| With Hélène Morlon and Benoît Perez-Lamarque \| IBENS Paris, France
+
