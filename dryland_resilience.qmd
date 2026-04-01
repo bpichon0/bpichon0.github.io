@@ -9,11 +9,37 @@ In time, ecosystems are exposed to perturbations such extreme drought or wet eve
 In manuscripts in preparation, we investigated how dominance and dispersion of plant traits were associated with drought resistance and recovery time after droughts along a large aridity gradient.
 We also investigated how the different facets of diversity (taxonomic, functional, phylogenetic) drive this different dimensions of stability.
 
-## ![](Figures/trait_time.jpg){width="508"}
+## ![](Figures/trait_time.jpg)
 
 ## Resilience in space
 
 Dryland ecosystems, alongside others such as salt-marshes and mussel-beds, exhibit characteristic two-phase spatial mosaics with vegetation aggregated in patches and separated by open areas. We are interested in developping methods to link plant spatial patterns and resilience, as well as understanding how such spatial structure changes along stress gradients (**i.e.,** herbivory or aridity).
+
+
+#### Vegetation patterns pinpoint the least resilient dryland sites
+
+We developped an inverse-modelling approach relying on Approximate Bayesian Computing, which uses a snapshot of the spatial structure of ecosystems characterized by so-called irregular patterns, and estimate a distance to its desertification point regardless of whether it is reached via progressive or sudden degradation. The approach allows to comparably rank sites according to their resilience, which is here estimated as each site’s distance to its desertification point. We validated the approach on simulated landscapes from different models, showing that the approach performs well at ranking all landscapes. We applied the approach to a global dryland dataset and investigates the drivers of the estimated distances to desertification. We emphasized a possible application of our approach by crossing these distances to desertification with aridity projections to illustrate the possibility to integrate our approach into risk assessment of drylands.
+
+
+#### Climatic legacies drive spatial aggregation of plants in drylands
+
+In this work, we focused on the contribution of current and past climates in explaining present-day spatial vegetation patterns. So we were asking whether there was climate legacies on present-day spatial vegetation patterns.
+We show that past climates from the mid-Holocene and Last Glacial Maximum have effects of similar magnitude as current climate on the vegetation cover, but have remarkably stronger imprint on the spatial aggregation of vegetation in drylands.
+Furthermore, we found that climate legacies on plant spatial patterns might relate to climate long-lasting effects on soil multifunctionality and sand content.
+This study emphasizes the different timescales of processes involved in vegetation patterning in drylands, which we should account for when assessing dryland functioning and resilience from these patterns.
+
+[Climatic legacies drive spatial aggregation of plants in drylands](https://hal.science/hal-05357145/document). (2026) B. Pichon, S. Kéfi, I. Gounand, S. Donnet (**in press**) *Global Change Biology*
+
+![](Figures/legacy.jpg)
+
+
+[Vegetation patterns pinpoint the least resilient dryland sites](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210x.70205). (2026) B. Pichon, S. Donnet, I. Gounand, S. Kéfi *Methods in Ecology and Evolution*
+
+![](Figures/abc1.jpg)
+
+![](Figures/abc2.jpg)
+
+
 
 #### Grazing and plant spatial patterns in drylands
 
@@ -31,25 +57,4 @@ Within communities, species are wrapped in a set of feedbacks with each other an
 
 ![](Figures/multistab.jpg)
 
-#### Vegetation patterns pinpoint the least resilient dryland sites
 
-We developped an inverse-modelling approach relying on Approximate Bayesian Computing, which uses a snapshot of the spatial structure of ecosystems characterized by so-called irregular patterns, and estimate a distance to its desertification point regardless of whether it is reached via progressive or sudden degradation. The approach allows to comparably rank sites according to their resilience, which is here estimated as each site’s distance to its desertification point. We validated the approach on simulated landscapes from different models, showing that the approach performs well at ranking all landscapes. We applied the approach to a global dryland dataset and investigates the drivers of the estimated distances to desertification. We emphasized a possible application of our approach by crossing these distances to desertification with aridity projections to illustrate the possibility to integrate our approach into risk assessment of drylands.
-
-[Vegetation patterns pinpoint the least resilient dryland sites](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210x.70205). (2026) B. Pichon, S. Donnet, I. Gounand, S. Kéfi *Methods in Ecology and Evolution*
-
-![](Figures/abc1.jpg)
-
-![](Figures/abc2.jpg)
-
-
-
-#### Climatic legacies drive spatial aggregation of plants in drylands
-
-In this work, we focused on the contribution of current and past climates in explaining present-day spatial vegetation patterns. So we were asking whether there was climate legacies on present-day spatial vegetation patterns.
-We show that past climates from the mid-Holocene and Last Glacial Maximum have effects of similar magnitude as current climate on the vegetation cover, but have remarkably stronger imprint on the spatial aggregation of vegetation in drylands.
-Furthermore, we found that climate legacies on plant spatial patterns might relate to climate long-lasting effects on soil multifunctionality and sand content.
-This study emphasizes the different timescales of processes involved in vegetation patterning in drylands, which we should account for when assessing dryland functioning and resilience from these patterns.
-
-[Climatic legacies drive spatial aggregation of plants in drylands](https://hal.science/hal-05357145/document). (2026) B. Pichon, S. Kéfi, I. Gounand, S. Donnet (**in press**) *Global Change Biology*
-
-![](Figures/legacy.jpg)

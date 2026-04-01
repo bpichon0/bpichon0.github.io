@@ -8,9 +8,15 @@ If not available online or in [HAL](https://hal.science/search/index/?q=*&authId
 
 # Selected publications
 
-[Integrating ecological feedbacks across scales and levels of organization](https://nsojournals.onlinelibrary.wiley.com/doi/pdf/10.1111/ecog.07167). (2024) B. Pichon, S. Kéfi, N. Loeuille, I. Lajaaiti, I. Gounand. *Ecography*
-
+<!--
 [The interplay of facilitation and competition drives the emergence of multistability in dryland plant communities](https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1002/ecy.4369). (2024) B. Pichon, I. Gounand, S. Donnet, S. Kéfi *Ecology*
+-->
+
+[Vegetation patterns pinpoint the least resilient dryland sites](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210x.70205). (2026) B. Pichon, S. Donnet, I. Gounand, S. Kéfi *Methods in Ecology and Evolution*
+
+[Grazing Modulates the Multiscale Spatial Structure of Dryland Vegetation](https://onlinelibrary.wiley.com/doi/10.1111/gcb.70345). (2025) B. Pichon, S. Kéfi, I. Gounand, N. Gross, Y. Pinguet, J. Guerber, D. Eldridge, [...], S. Donnet, F. T. Maestre. *Global Change Biology*
+
+[Integrating ecological feedbacks across scales and levels of organization](https://nsojournals.onlinelibrary.wiley.com/doi/pdf/10.1111/ecog.07167). (2024) B. Pichon, S. Kéfi, N. Loeuille, I. Lajaaiti, I. Gounand. *Ecography*
 
 [Telling mutualistic and antagonistic ecological networks apart by learning their multiscale structure](https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/2041-210X.14328). (2024) B. Pichon, R. Le Goff, H. Morlon, B. Perez-Lamarque *Methods in Ecology and Evolution*
 
