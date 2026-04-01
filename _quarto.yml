@@ -6,7 +6,7 @@ project:
 website:
   favicon: Figures/logo.png
   title: "Benoît Pichon"
-  site-url: 'https://bpichon.github.io'
+  site-url: 'https://benoitpichon.github.io'
   site-path: '/'
   navbar:
     left:
@@ -16,6 +16,8 @@ website:
         text: Meta-ecosystem 
       - href: dryland_resilience.qmd
         text: Resilience in time and space
+      - href: vulgarisation.qmd
+        text: Vulgarisation
       - href: cv_publi.qmd
         text: Education & Publications
 

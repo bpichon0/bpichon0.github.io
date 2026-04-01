@@ -1,0 +1,11 @@
+---
+  title: "Vulgarization articles"
+---
+
+Aside from scientific papers, I enjoy much writing scientific articles for the [Planet Vie website](https://planet-vie.ens.fr/).
+
+-   [**La stabilité des écosystèmes et leur réponse aux perturbations : concepts, exemples et conservation**](https://planet-vie.ens.fr/thematiques/ecologie/la-stabilite-des-ecosystemes-et-leur-reponse-aux-perturbations-concepts). (2024) B. Pichon
+
+-   [**La désertification des écosystèmes arides**](https://planet-vie.ens.fr/thematiques/ecologie/la-desertification-des-ecosystemes-arides). (2026) B. Pichon et S. Kéfi
+
+-   **Diversité et stabilité des écosystèmes** B. Pichon, I. Lajaaiti, S. Kéfi **in prep**
