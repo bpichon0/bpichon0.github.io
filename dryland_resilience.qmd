@@ -16,9 +16,6 @@ We also investigated how the different facets of diversity (taxonomic, functiona
 Dryland ecosystems, alongside others such as salt-marshes and mussel-beds, exhibit characteristic two-phase spatial mosaics with vegetation aggregated in patches and separated by open areas. We are interested in developping methods to link plant spatial patterns and resilience, as well as understanding how such spatial structure changes along stress gradients (**i.e.,** herbivory or aridity).
 
 
-#### Vegetation patterns pinpoint the least resilient dryland sites
-
-We developped an inverse-modelling approach relying on Approximate Bayesian Computing, which uses a snapshot of the spatial structure of ecosystems characterized by so-called irregular patterns, and estimate a distance to its desertification point regardless of whether it is reached via progressive or sudden degradation. The approach allows to comparably rank sites according to their resilience, which is here estimated as each site’s distance to its desertification point. We validated the approach on simulated landscapes from different models, showing that the approach performs well at ranking all landscapes. We applied the approach to a global dryland dataset and investigates the drivers of the estimated distances to desertification. We emphasized a possible application of our approach by crossing these distances to desertification with aridity projections to illustrate the possibility to integrate our approach into risk assessment of drylands.
 
 
 #### Climatic legacies drive spatial aggregation of plants in drylands
@@ -32,6 +29,9 @@ This study emphasizes the different timescales of processes involved in vegetati
 
 ![](Figures/legacy.jpg)
 
+#### Vegetation patterns pinpoint the least resilient dryland sites
+
+We developped an inverse-modelling approach relying on Approximate Bayesian Computing, which uses a snapshot of the spatial structure of ecosystems characterized by so-called irregular patterns, and estimate a distance to its desertification point regardless of whether it is reached via progressive or sudden degradation (first figure below). The approach allows to comparably rank sites according to their resilience, which is here estimated as each site’s distance to its desertification point. We validated the approach on simulated landscapes from different models, showing that the approach performs well at ranking all landscapes. We applied the approach to a global dryland dataset (see for instance for the three sites in the second figure below). We believe this approach can be used in risk assessments where resilience is most often omitted !!
 
 [Vegetation patterns pinpoint the least resilient dryland sites](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210x.70205). (2026) B. Pichon, S. Donnet, I. Gounand, S. Kéfi *Methods in Ecology and Evolution*
 

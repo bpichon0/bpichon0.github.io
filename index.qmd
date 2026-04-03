@@ -25,7 +25,8 @@ Theses links generate emergent properties in ecosystems such as their resilience
 My research aims at contributing to the understanding of how different processes such as species traits, stoichiometry of spatial flows modulate those emergent properties across scales.
 For that, I generally combine data (from the field or using remote sensing), and theoretical models.
 
-I'm currently doing a postdoc at Tübingen fouded by the Humboldt foundation.
+I'm currently doing a postdoc hosted by the University of Tübingen founded by the Humboldt foundation.
+I did my PhD with [Sonia Kéfi](https://skefi.github.io/), [Sophie Donnet](https://sophiedonnet.github.io/), and [Isabelle Gounand](https://scholar.google.com/citations?user=FNjP0G4AAAAJ&hl=fr) working on feedbacks in ecology at different level of organization. 
 
 **I owe a lot to all my collaborators. I believe this is fundamental to acknowledge it, since they shaped all the ideas and the research presented here :)**
 
